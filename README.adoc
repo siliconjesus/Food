@@ -12,8 +12,13 @@ TODO: HTML?
 TODO: Tagging?
 ////
 
+= Mentzell Food Catalog 
+
 <<<
 toc::[]
 
-=== Credits
-include::content/authors.adoc
+== Credits
+include::content/authors.adoc[]
+
+== Preface
+include::content/preface.adoc[]
