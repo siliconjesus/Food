@@ -1,0 +1,19 @@
+//// 
+I am taking this opportunity for me to start documenting all of the recipies I have in many places all 
+together again.  This includes family recipies from both myself and my wife's family.  Heavily Eastern European 
+and American blended together.  Expect to find a little bit of everything here.
+
+Based off of Circuitswan's repo - using ASCIIDOC for the practice more than anything.  
+
+TODO: Add my recipies
+TODO: Create a TOC
+TODO: Organize in a way that makes sense to me.
+TODO: HTML?
+TODO: Tagging?
+////
+
+<<<
+toc::[]
+
+=== Credits
+include::content/authors.adoc
