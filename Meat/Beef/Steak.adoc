@@ -1,3 +1,9 @@
 === Steaks
 
 Steaks are highly controversial in my family.  My Uncle won't touch anything that's just barely on this side of burned.  I prefer my steaks in the rare to medium rare range, but I've had plenty of raw beef dishes (steak tartare is a personal favorite).
+
+When cooking steaks, I find that resting is the key differentiator when creating a good steak to eat.  It seems to allow for a more whole steak experience wtihout all of the flavor draining onto your plate.  I don't generally bring steaks to room temperature first, but they all pass by it on the way to getting completed.  I season all steaks simply, with kosher salt (any large granule salt will work), ground black pepper and garlic powder on both sides prior to cooking.  
+
+include::delmonico.adoc[]
+include::nystrip.adoc[]
+
